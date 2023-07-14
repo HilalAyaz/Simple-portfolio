@@ -1,2 +1,0 @@
-# ThisIsmyRepo
-Just for Practicing
